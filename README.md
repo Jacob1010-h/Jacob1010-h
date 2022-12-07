@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob1010-h&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Jacob1010-h/Jacob1010-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
