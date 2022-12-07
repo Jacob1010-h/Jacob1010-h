@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi! 👋
+![Streak](https://streak-stats.demolab.com?user=Jacob1010-h&theme=tokyonight&mode=weekly&border=DD2BC7)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob1010-h&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob1010-h&layout=compact&theme=tokyonight&size=2)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jacob1010-h/Jacob1010-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
