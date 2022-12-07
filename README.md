@@ -1,4 +1,8 @@
 ### Hi! 👋
+
+![Snek!](https://raw.githubusercontent.com/Jacob1010-h/Jacob1010-h/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 ![Streak](https://streak-stats.demolab.com?user=Jacob1010-h&theme=tokyonight&mode=weekly&border=DD2BC7)
 
 
@@ -17,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
