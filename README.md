@@ -8,7 +8,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <details open>
-  <summary><h2 style="color:#2B96C5FF;">My Stats 👨‍💻</h2></summary>
+  <summary><h2 style="color:'blue';">My Stats 👨‍💻</h2></summary>
 <p align="center">
     <!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,10 +16,17 @@
     <img src="https://streak-stats.demolab.com?user=Jacob1010-h&theme=algolia&mode=weekly&border=0abfff" width="49%"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob1010-h&theme=algolia&border_color=0abfff&layout=compact" width="33%"/>
-    <img src="https://raw.githubusercontent.com/Jacob1010-h/Jacob1010-h/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/Jacob1010-h/Jacob1010-h/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  </a>
+  <br>
+  <a>
+    <img src="https://raw.githubusercontent.com/Jacob1010-h/Jacob1010-h/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" align="left"/>
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/Jacob1010-h/Jacob1010-h/output/github-contribution-grid-snake.svg#gh-light-mode-only" align="left"/>
+  </a>
+  <br>
+  <a>
     <img src="https://komarev.com/ghpvc/?username=jacob1010-h&logo=GitHub&label=Profile%20views&color=70a4fc&logoColor=white&style=flat" align="left"/>
-
 </a>
 </p>
 </details>
