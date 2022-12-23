@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=2B96C5&width=600&lines=Hi+%F0%9F%91%8B;My+name+is+Jacob+Hotz+%F0%9F%99%83;I+am+a+computer+scientist+for+The+Patribots+%F0%9F%92%BB;I+am+currently+learning+Python+and+Java+%E2%98%95)](https://git.io/typing-svg)
 <details open>
-  <summary><h3 style="color:#2B96C5FF;">My toolbox 🧰</h3></summary>
+  <summary><h2 style="color:#2B96C5FF;">My toolbox 🧰</h2></summary>
 <a href="https://skills.thijs.gg" align="center">
 <img src="https://skills.thijs.gg/icons?i=java,py,js,html,md,nodejs,react,unity,css" /></a>
 </details>
@@ -8,7 +8,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <details open>
-  <summary><h3 style="color:#2B96C5FF;">My Stats 👨‍💻</h3></summary>
+  <summary><h2 style="color:#2B96C5FF;">My Stats 👨‍💻</h2></summary>
 <p align="center">
     <!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
