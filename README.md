@@ -32,8 +32,7 @@
 </details>
 
 ![-----------------------------------------------------](https://cdn.discordapp.com/attachments/951910178968731648/1056493040757379203/newtabbackground.png)
-![Views](https://komarev.com/ghpvc/?username=jacob1010-h&logo=GitHub&label=Profile%20views&color=70a4fc&logoColor=white&style=flat)
-
-
 [![Provided by GalexY](https://img.shields.io/badge/README%20designed%20kindly%20by-GalexY-blueviolet)](https://github.com/galexy727)
 
+
+![Views](https://komarev.com/ghpvc/?username=jacob1010-h&logo=GitHub&label=Profile%20views&color=70a4fc&logoColor=white&style=flat)
