@@ -1,38 +1,83 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=2B96C5&width=600&lines=Hi+%F0%9F%91%8B;My+name+is+Jacob+Hotz+%F0%9F%99%83;I+am+a+computer+scientist+for+The+Patribots+%F0%9F%92%BB;I+am+currently+learning+Python+and+Java+%E2%98%95)](https://git.io/typing-svg)
+<h1 align='center'>
+  Hi! My name is Jacob!👋
+</h1>
 
-![-----------------------------------------------------](https://cdn.discordapp.com/attachments/951910178968731648/1056493040757379203/newtabbackground.png)
-
-<details open>
-  <summary><h2>My toolbox 🧰</h2></summary>
-<a href="https://skills.thijs.gg" align="center">
-<img src="https://skills.thijs.gg/icons?i=java,py,js,html,md,nodejs,react,unity,css" /></a>
-</details>
-
-![-----------------------------------------------------](https://cdn.discordapp.com/attachments/951910178968731648/1056493040757379203/newtabbackground.png)
-
-<details open>
-  <summary><h2>My Stats 👨‍💻</h2></summary>
-<p align="center">
-    <!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jacob1010-h&show_icons=true&theme=algolia&border_color=0abfff" width="49%"/>
-    <img src="https://streak-stats.demolab.com?user=Jacob1010-h&theme=algolia&mode=weekly&border=0abfff" width="49%"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob1010-h&theme=algolia&border_color=0abfff&layout=compact" width="33%"/>
-  </a>
-  <br>
-  <a>
-    <img src="https://raw.githubusercontent.com/Jacob1010-h/Jacob1010-h/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" align="left"/>
-  </a>
-  <a>
-    <img src="https://raw.githubusercontent.com/Jacob1010-h/Jacob1010-h/output/github-contribution-grid-snake.svg#gh-light-mode-only" align="left"/>
-  </a>
-  <br>
+<p align='center'>
+  I'm a current student and a developer from California working on his education and learning as much as possible. 
 </p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/jacob-hotz/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jacob1010-h&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **CS + Robotics Major**\
+📆 2024 - moment\
+📍 **Colorado School of Mines** - Golden, CO
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+
+- 👨‍💻 **FRC Robotics**\
+📆 2020 - 2024\
+📍 **FRC Robotics Team 4738** - San Diego, CA
+
 </details>
 
-![-----------------------------------------------------](https://cdn.discordapp.com/attachments/951910178968731648/1056493040757379203/newtabbackground.png)
-[![Provided by GalexY](https://img.shields.io/badge/README%20designed%20kindly%20by-GalexY-blueviolet)](https://github.com/galexy727)
+
+<details>
+  <summary>💽 Skills</summary>
+
+<img align="center" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+<img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
 
 
-![Views](https://komarev.com/ghpvc/?username=jacob1010-h&logo=GitHub&label=Profile%20views&color=70a4fc&logoColor=white&style=flat)
+<img align="right" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
+<img align="right" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" />
+<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+
+
+**Programming**
+
+
+<img align="right" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+<img align="right" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+<img align="right" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+
+
+**Fraimworks**
+
+<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+
+**Operating Systems**
+
+</details>
+
+
+  
